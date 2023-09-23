@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satvik
 - 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Web Development
 
 <!---
 Satvik-1287/Satvik-1287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
