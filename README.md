@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satvik</h1>
+<h1 align="left">Hi 👋, I'm Satvik</h1>
 <h3 align="left">A student learning coding and programming from India</h3>
 
 <img align="right" alt="GIF" src="https://github.com/Satvik-1287/Satvik-1287/blob/main/gif.gif" width="400"/>
