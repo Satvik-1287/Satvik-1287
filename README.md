@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satvik</h1>
 <h3 align="center">A student learning coding and programming from India</h3>
 
+<img align="right" alt="GIF" src="https://github.com/Satvik-1287/Satvik-1287/blob/main/gif.gif" width="400"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvik-1287&label=Profile%20views&color=0e75b6&style=flat" alt="satvik-1287" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik-1287" alt="satvik-1287" /></a> </p>
